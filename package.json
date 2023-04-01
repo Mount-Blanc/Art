@@ -1,0 +1,22 @@
+{
+  "name": "art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd Art/server && npm install && node server.js",
+    "build": "cd Art && npm run build",
+    "install": "cd Art &&  npm install" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mount-Blanc/Art.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mount-Blanc/Art/issues"
+  },
+  "homepage": "https://github.com/Mount-Blanc/Art#readme"
+}
